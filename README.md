@@ -1,4 +1,4 @@
-# AMB82-Mini 3D PCB 及外殼製作 (此開源已移除Logo, 以免誤導)
+# AMB82-Mini 3D PCB 及外殼製作 (此開源STL file 已移除Logo, 以免誤導)
 ![](https://i.imgur.com/EQXp0Mz.png)
 
 
