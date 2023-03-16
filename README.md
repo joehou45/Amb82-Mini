@@ -24,7 +24,7 @@
 
 ## 1-3、AMB82-Mini 相關資源網站
    
-[MB82-Mini各項資源連結](https://www.amebaiot.com/zh/ameba-arduino-summary/?fbclid=IwAR3egVAu4DMTtHzt4R31GiRRCqC15gZ0QDZg-C6S1O3NHGe2dtnVOD6ZLgc)
+[AMB82-Mini各項資源連結](https://www.amebaiot.com/zh/ameba-arduino-summary/?fbclid=IwAR3egVAu4DMTtHzt4R31GiRRCqC15gZ0QDZg-C6S1O3NHGe2dtnVOD6ZLgc)
 
 [Getting start](https://www.amebaiot.com/zh/amebapro2-amb82-mini-arduino-getting-started/)
 
