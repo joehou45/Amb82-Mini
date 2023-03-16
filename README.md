@@ -1,6 +1,7 @@
 # AMB82-Mini 3D PCB 及外殼製作 
 ## 此開源STL file 已移除Logo, 以免誤導
 ## 此開源STL files 僅供個人使用, 請勿商業販售
+## 此開源STL files 並無提供天線固定板
 
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/14821404/225515373-697c5b50-3d29-4d05-9168-84e320ced42a.png">
 
