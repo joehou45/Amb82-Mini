@@ -1,6 +1,6 @@
 # AMB82-Mini 3D PCB 及外殼製作 
 ### Noted: 
-### 此開源STL file 已移除Logo, 以免誤導
+### 此開源STL file 已移除Realtek Logo, 以免誤導及產生智財問題
 ### 此開源STL files 僅供個人使用, 請勿商業販售
 ### 此開源STL files 並無提供有天線固定板的版本(此版本為限量發售版)
 
