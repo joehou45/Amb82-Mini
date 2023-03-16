@@ -1,7 +1,8 @@
-# AMB82-Mini 3D PCB 及外殼製作 (此開源STL file 已移除Logo, 以免誤導)
-![](https://i.imgur.com/EQXp0Mz.png)
+# AMB82-Mini 3D PCB 及外殼製作 
+## 此開源STL file 已移除Logo, 以免誤導
+## 此開源STL files 僅供個人使用, 請勿商業販售
 
-
+<img width="947" alt="image" src="https://user-images.githubusercontent.com/14821404/225515373-697c5b50-3d29-4d05-9168-84e320ced42a.png">
 
 ---
 
@@ -52,25 +53,6 @@
 ---
 
 
-## 3-1、列印外殼3D 
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-..
-**人生不會那麼順利, 3D列印也是一樣**
-![](https://i.imgur.com/PvXGAFk.jpg)
-
-**成功不是偶然的, 只是需要乖乖...**
-![](https://i.imgur.com/0jFKmjD.jpg)
 
 
 **由左至右依順改出3款**
@@ -101,8 +83,7 @@
 | 1. 3DP 外殼正面  |  1    | 
 | 2. 3DP 外殼背板   |   1   | 
 | 3. 3DP 鏡頭外飾 | 1  | 
-| 4. 3DP 天線固定板 | 1  | 
-| 5. (3x6mm)的磁鐵  | 9 顆 | 
+| 4. (3x6mm)的磁鐵  | 9 顆 | 
 
 
 ## 4-2、安裝方式
